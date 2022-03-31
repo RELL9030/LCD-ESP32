@@ -1,2 +1,2 @@
-# LCD-ESP32
+# LCD-ESP32 + Battery
 ![CONEXIÓN LCD & ESP32](/LCD_ESP32_bb.jpg "CONEXIÓN LCD & ESP32")
