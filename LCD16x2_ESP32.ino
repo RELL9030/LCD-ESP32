@@ -29,7 +29,7 @@ void setup()
   Serial.begin(115200);      //Inicialización del bus serial
   lcd.begin(16, 2);         //Inicialización de la pantalla LCD 16x2.
   lcd.clear();              //Limpieza de pantalla
-  lcd.setCursor(0, 0);      //Posición del cursor (F,C)
+  lcd.setCursor(0, 0);      //Posición del cursor (C,F)
   lcd.print("Bienvenido");  //Impresion de mensaje inicial
   lcd.setCursor(0, 1);
   lcd.print("..........");
